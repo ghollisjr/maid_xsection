@@ -1,0 +1,4 @@
+.emacs_backups/
+example/example
+*.o
+*.root
