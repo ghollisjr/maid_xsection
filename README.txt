@@ -10,3 +10,7 @@ maid_xsection
 See example/for an example program that links to it.
 
 To use MAID2007, use maid_xsection07.
+
+Example executable usage:
+
+echo '1.5 1.0 0 0' | maid_xsection 2.035 5 2 0 0
